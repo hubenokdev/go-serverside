@@ -50,7 +50,4 @@ $ fresh
 
  - Write MORE Tests
 
-License
-----
 
-MIT
